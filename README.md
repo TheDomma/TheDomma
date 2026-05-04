@@ -39,15 +39,7 @@ I'm a Computer Science student based in Sri Lanka, currently balancing my degree
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TheDomma&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=TheDomma&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheDomma&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=TheDomma&theme=github-dark&hide_border=true" />
 </p>
 
 ### 📫 Let's Connect
