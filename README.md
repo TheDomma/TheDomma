@@ -1,58 +1,99 @@
-# Hi there, I'm Muditha Dodamwala 👋
+<h1 align="center">⚡ Hi, I'm Muditha</h1>
 
-### CS Undergrad | Aspiring Software Engineer | B2B Junior Associate
-
-I'm a Computer Science student based in Sri Lanka, currently balancing my degree with a junior role in the B2B sector. I'm early in my tech journey, focusing on building a solid foundation and translating theoretical concepts into practical, real-world applications. I value simplicity, consistency, and hands-on learning over industry buzzwords. 
-
----
-
-### 🚀 What I'm Up To
-
-*   🎓 Studying Computer Science and navigating the massive world of software engineering.
-*   💼 Working part-time in the B2B industry, learning firsthand how technology drives business value.
-*   🌱 Currently getting my hands dirty with: **Java**, **Web Development**, and **Mobile App Development**.
-*   🎯 **Current Goals:** Build meaningful projects, sharpen my problem-solving skills, and maintain a disciplined, daily coding habit.
-
-### 💻 Tech Stack & Tools
-
-*A snapshot of what I'm comfortable with and what I'm actively learning right now:*
-
-**The Basics:**<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-**Exploring & Expanding Into:**<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Backend Development](https://img.shields.io/badge/Backend_Dev-222222?style=for-the-badge)
-![Mobile Development](https://img.shields.io/badge/Mobile_Dev-222222?style=for-the-badge)
-![AI Concepts](https://img.shields.io/badge/AI_Concepts-222222?style=for-the-badge)
-
-### ☕ Beyond the Screen
-
-*   🦉 **Night Owl:** I do my best thinking (and debugging) when the rest of the world is asleep.
-*   🥗 **Fuel:** Running on good coffee and a solid vegetarian diet.
-*   📈 **Philosophy:** Keep it real and grounded. I'm not here to oversell myself—just focusing on gradual, continuous growth toward becoming a skilled engineer and, eventually, an entrepreneur. 
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=TheDomma&theme=github-dark&hide_border=true" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=520&lines=CS+Undergrad;Future+Software+Engineer;Building+Real+Projects;Always+Learning" />
 </p>
 
-### 📫 Let's Connect
-
-I'm always open to talking about tech, AI, backend development, or sharing tips on navigating the early stages of a tech career. 
-
-*   💼 **LinkedIn:** [Muditha Dodamwala](https://www.linkedin.com/in/muditha-dodamwala-5b0866374/)
-*   💻 **GitHub:** [@TheDomma](https://github.com/TheDomma)
+<p align="center">
+  <code>status: initializing developer mindset...</code>
+</p>
 
 ---
-```json
-{
-  "status": "Learning mode: ON",
-  "current_focus": "Consistency > Intensity",
-  "sleep_schedule": "404 Not Found"
+
+### 🧠 Profile Overview
+
+```bash
+> role: CS Undergraduate
+> work: Junior Associate (B2B)
+> focus: Software Engineering
+> location: Sri Lanka
+```
+
+I’m currently focused on bridging the gap between **academic theory and real-world systems**.
+Still early in the journey - but building with intention, consistency, and a long-term mindset.
+
+> No shortcuts. Just compounding progress.
+
+---
+
+### ⚡ Current Execution
+
+* 🎓 **Studying:** Core CS concepts, logic building, and system thinking
+* 💼 **Working:** Hands-on exposure to B2B workflows and real business processes
+* 🛠 **Learning:** **Java**, **Web Development**, and **Mobile App Development**
+* 📈 **Improving:** Problem-solving, discipline, and consistency
+* 🎯 **Direction:** Moving toward backend systems & scalable applications
+
+---
+
+### 🛠 Tech Stack & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+<br/>
+<img src="https://skillicons.dev/icons?i=java" />
+
+</p>
+
+---
+
+### 🧩 Current Focus Areas
+
+```txt
+• Object-Oriented Programming (Java)
+• Frontend Foundations (HTML, CSS, JS)
+• Backend Thinking (APIs, Data Flow)
+• Real-world problem solving
+• Building consistent coding habits
+```
+
+---
+
+### 🌙 Developer Mindset
+
+* 🦉 Night owl — deep work mode after midnight
+* 🧠 Learning by building, not just consuming
+* ⚖️ Focused on balance: growth without burnout
+* 📊 Small improvements → long-term results
+
+---
+
+### 📊 Activity Signal
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TheDomma&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muditha-dodamwala-5b0866374/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/TheDomma" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+```java
+while(alive){
+    learn();
+    build();
+    iterate();
 }
+```
