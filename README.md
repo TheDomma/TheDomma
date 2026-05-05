@@ -10,7 +10,7 @@
 
 ---
 
-### 🧠 Profile Overview
+### 🔻Profile Overview
 
 ```bash
 > role: CS Undergraduate
@@ -62,14 +62,14 @@ Still early in the journey - but building with intention, consistency, and a lon
 
 ### 🌙 Developer Mindset
 
-* 🦉 Night owl — deep work mode after midnight
-* 🧠 Learning by building, not just consuming
-* ⚖️ Focused on balance: growth without burnout
-* 📊 Small improvements → long-term results
+*  Night owl — deep work mode after midnight
+*  Learning by building, not just consuming
+*  Focused on balance: growth without burnout
+*  Small improvements → long-term results
 
 ---
 
-### 📊 Activity Signal
+###  Activity Signal
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TheDomma&theme=tokyonight&hide_border=true" />
