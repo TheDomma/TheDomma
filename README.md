@@ -69,13 +69,10 @@ Still early in the journey, but building with intention, consistency, and a long
 
 ---
 
-### 📊 Activity & Stats
+### ⚡ Activity Signal
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TheDomma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=TheDomma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
