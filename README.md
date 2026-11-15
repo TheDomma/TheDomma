@@ -13,14 +13,14 @@
 ### 🔻Profile Overview
 
 ```bash
-> role: CS Undergraduate
-> work: Junior Associate (B2B)
-> focus: Software Engineering
+> role: Full-time CS Student & Independent Developer
+> focus: Software Engineering & System Architecture
 > location: Sri Lanka
+> status: Exploring widely, building continuously
 ```
 
 I’m currently focused on bridging the gap between **academic theory and real-world systems**.
-Still early in the journey - but building with intention, consistency, and a long-term mindset.
+Still early in the journey, but building with intention, consistency, and a long-term mindset.
 
 > No shortcuts. Just compounding progress.
 
@@ -29,10 +29,10 @@ Still early in the journey - but building with intention, consistency, and a lon
 ### ⚡ Current Execution
 
 * 🎓 **Studying:** Core CS concepts, logic building, and system thinking
-* 💼 **Working:** Hands-on exposure to B2B workflows and real business processes
+* 💻 **Developing:** Independent projects and experimenting across full-stack systems
 * 🛠 **Learning:** **Java**, **Web Development**, and **Mobile App Development**
 * 📈 **Improving:** Problem-solving, discipline, and consistency
-* 🎯 **Direction:** Moving toward backend systems & scalable applications
+* 🎯 **Direction:** Moving toward backend systems and scalable applications
 
 ---
 
@@ -62,17 +62,20 @@ Still early in the journey - but building with intention, consistency, and a lon
 
 ### 🌙 Developer Mindset
 
-*  Night owl — deep work mode after midnight
+*  Night owl: deep work mode after midnight
 *  Learning by building, not just consuming
 *  Focused on balance: growth without burnout
 *  Small improvements → long-term results
 
 ---
 
-###  Activity Signal
+### 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheDomma&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=TheDomma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=TheDomma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
